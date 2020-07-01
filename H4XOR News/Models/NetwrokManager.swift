@@ -7,6 +7,9 @@
 //
 
 import Foundation
+/*
+ *Observable serivice 07/01/2020
+ */
 
 class NetworkManager: ObservableObject {
     @Published var posts = [Post]()
