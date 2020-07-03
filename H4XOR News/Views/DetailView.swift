@@ -2,7 +2,7 @@
 //  DetailView.swift
 //  H4XOR News
 //
-//  Created by Deepak Rout on 7/02/20.
+//  Created by Deepak Rout on 7/03/20.
 //  Copyright © 2020 Deepak Rout. All rights reserved.
 //
 
