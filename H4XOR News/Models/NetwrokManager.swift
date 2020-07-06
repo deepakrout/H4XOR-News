@@ -2,7 +2,7 @@
 //  NetwrokManager.swift
 //  H4XOR News
 //
-//  Created by Deepak Rout on 07/03/20.
+//  Created by Deepak Rout on 07/05/20.
 //  Copyright © 2020 Deepak Rout. All rights reserved.
 //
 
